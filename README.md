@@ -8,7 +8,7 @@ Information Collection and Use I don't collect any personally identifiable infor
 
 The app does use: 
   Your phone's Location information to show you nearest branches of banks in Uzbekistan.
-  Your data, if you login using id.egov.uz you can see your credit info.
+  Your data such as name, email, phone number, userId if you login using id.egov.uz we show you your credit info.
 
 Link to privacy policy of third party service providers used by the app:
 
